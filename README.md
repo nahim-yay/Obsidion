@@ -34,6 +34,9 @@ Things that Obsidion Engine are currently capable of:\
 ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/suzane.mp4?raw=true)
 ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/TPCamera.mp4?raw=true)
 ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf_woman.mp4?raw=true)
+<<<<<<< HEAD
 
 <video src="https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf_woman.mp4?raw=true" controls="controls" style="max-width: 730px;">
 </video>
+=======
+>>>>>>> 023dfbfbaba324c41fa88b041005ece4aeea12e0
