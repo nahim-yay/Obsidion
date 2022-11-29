@@ -18,7 +18,7 @@ Things that Obsidion Engine are currently capable of:\
 --    Material\
 --    Skybox\
 --    Free fly Camera\
---    Third Person camera with Basic Player movement\
+--    Third Person camera with Basic Player movement\\
 
 
 ![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/tangent_test.mp4)
