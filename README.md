@@ -21,22 +21,16 @@ Things that Obsidion Engine are currently capable of:\
 --    Third Person camera with Basic Player movement\\
 
 
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/tangent_test.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/wolf.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/spider.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/scene.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/ninja.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/heightmapped_terrain.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/control.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/camera.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/Cam.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/suzane.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/TPCamera.mp4?raw=true)
-![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf_woman.mp4?raw=true)
-
-<video src="https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf_woman.mp4?raw=true" controls="controls" style="max-width: 730px;">
-</video>
-
-<video src='Captures/tangent_test.mp4' width=180/>
-
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/tangent_test.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/wolf.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/spider.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/scene.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/ninja.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/heightmapped_terrain.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/control.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/camera.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/Cam.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/suzane.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/TPCamera.gif?raw=true)
+![](https://raw.githubusercontent.com/nahim-yay/Obsidion/master/Captures/gltf_woman.gif?raw=true)
